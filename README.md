@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisertugrul&show_icons=true&theme=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisertugrul&show_icons=true&theme=blue-green)
 
 
 ### Merhaba 👋
