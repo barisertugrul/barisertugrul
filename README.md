@@ -4,6 +4,7 @@
 
 ### Merhaba 👋
 Ben Barış Ertuğrul
+
 Üniversite için geldiğim İzmir'de yaşıyorum ve Milli EğitimBakanlığına bağlı olarak bir lisede Rehber Öğretmen/Psikolojik Danışman olarak görev yapıyorum.
 Üniversite yıllarında tanıştığım yazılım dünyasının cazibesine daha fazla direnemeyerek, aldığım kitaplar yoluyla, işimden arta kalan zamanlarımda kendimi bu konuda geliştirmeye çalıştım. Daha sonra bilgisayarım oldu, internet gelişti vs. Pandemi döneminin tatsız koşullarında ise online eğitimlerle yazılım bilgimi profesyonel yöntemlerle ilerletmeye ve doğru kodlama yöntemlerini öğrenmeye çalışıyorum. Lokal çözümler üretmeyi seviyorum ve yazılımla ilgili problemler karşısında epey inatçı olduğum için, dolambaçlı da olsa çözümlere ulaşmak beni mutlu ediyor. Problemlere odaklandığım ve dolambaçlı çözümleri bulmaya çalıştığım için, bu zorlanmanın sayesinde hızlı öğrendiğimi düşünüyorum. Kodlama yapmaktan büyük keyif alıyorum. Bazen aşık olmuş gibi heyecanlanıyorum :)
 
