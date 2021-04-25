@@ -1,10 +1,5 @@
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=barisertugrul&style=plastic)
-  <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisertugrul&show_icons=true&theme=blue-green)
 
-<div text-align="center">
 ### Merhaba 👋
 Ben Barış Ertuğrul
 
@@ -19,7 +14,9 @@ Kendi işim dışında yazılımla ilgilendiğim için tek bir noktaya odaklanma
 
 🌱 I’m currently learning JAVA + REACT
 
-</div>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=barisertugrul&style=plastic)
 <!--
 **barisertugrul/barisertugrul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
