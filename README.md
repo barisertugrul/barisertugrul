@@ -2,7 +2,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/barisertugrul?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=barisertugrul.visitor-badge)](https://GitHub.com/barisertugrul/StrapDown.js/stargazers/)
 
-[![Barış's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barisertugrul&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Barış's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barisertugrul&theme=blue-green&hide=python&layout=compact&show_icons=true)](https://github.com/barisertugrul/github-readme-stats)
 
 ### Merhaba 👋
 Ben Barış Ertuğrul
