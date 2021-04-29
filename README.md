@@ -1,4 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisertugrul&show_icons=true&theme=blue-green)
+[![GitHub followers](https://img.shields.io/github/followers/barisertugrul?style=social)](https://github.com/barisertugrul?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/barisertugrul?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=barisertugrul.visitor-badge)](https://GitHub.com/barisertugrul/StrapDown.js/stargazers/)
+
+[![Barış's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barisertugrul&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Merhaba 👋
 Ben Barış Ertuğrul
@@ -8,11 +12,30 @@ Yıllar önce üniversite okumak için geldiğim İzmir'de yaşıyorum ve Milli 
 
 Kendi işim dışında yazılımla ilgilendiğim için tek bir noktaya odaklanmaktansa, ayırt etmeksizin yazılımla ilgili her alanda bilgi edinme lüksüne sahip olduğumu düşünüyorum. Bu yüzden de mail sağlayıcımın zamanında verdiği ücretsiz site içerisinde HTML taglarını değiştirerek (ve sadece bununla bile büyük heyecan duyarak) başladığım serüvenimi, ASP, PHP, ActionScript+Flex, JavaScript öğrenerek sürdürdükten sonra dayanamayıp kurcaladığım MS Access'in kod kısmmında tanıştığım (ki o yıllarda yazılımların o editörde yapıldığını sanıyordum) Visual Basic ile sürdürdüm. Algoritma ve Veritabanı gibi konularda kendimi daha yetkin hissediyorum. Yukarıda da sözünü ettiğim gibi, pandemi koşullarında, öğrenme faaliyetlerimde yeni bir dönem başladı. MEB bünyesinde açılan Kotlin ve Flutter, Python Eğitimlerinin yanısıra Engin Demiroğ, Atıl Samancıoğlu, Mustafa Vahit Keskin ve Murat Yücedağ'ın kurs ve kamplarına katılarak C#, Java, Angular, React ve Veri Bilimi-Yapay Zeka dünyasına da adım attım. Daldan dala gibi.. Ama ben genel olarak yazılım dünyasını keşfetmeyi seviyorum sanki. Yeni diller öğrenirken çok zorlanmıyorum mesela, sanki değişen sadece syntaxmış gibi geliyor, bu da beni bir süredir farklı dillere yönelme konusunda daha cesur davranmaya teşvik ediyor. Öğrenme yolculuğum devam ediyor ve edecek gibi de. Burada da bu yolculuğum sırasında geliştirebildiğim projelerimi paylaşacağım.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisertugrul&show_icons=true&theme=blue-green)
+
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/barisertugrul/) [<img alt="Gmail" src="https://img.shields.io/badge/@B.ERTUGRUL.EPOSTA@GMAIL.COM-D1483?style=for-the-badge&logo=gmail&logoColor=white" />](b.ertugrul.eposta@gmail.com)
 
 
 
 🌱 I’m currently learning JAVA + REACT
+
+<br/>
+## 🛠 Technologies & Tools 
+
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white"></img>
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white%22%3E"></img>
+<img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white"></img>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
+<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white"></img>
+<img src="https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></img>
 
 <br/>
 
