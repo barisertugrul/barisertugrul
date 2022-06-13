@@ -14,7 +14,7 @@ Kendi işim dışında yazılımla ilgilendiğim için tek bir noktaya odaklanma
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisertugrul&show_icons=true&theme=blue-green)
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/barisertugrul/) [<img alt="Gmail" src="https://img.shields.io/badge/@BARISERTUGRUL@ERTYAZILIM.COM-D1483?style=for-the-badge&logo=gmail&logoColor=white" />](barisertugrul@ertyazilim.com)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/barisertugrul/)
 
 
 
