@@ -18,12 +18,12 @@ My focus is on building modern web applications and exploring **AI-powered integ
 
 <img src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=black"></img>
 <img src="https://img.shields.io/badge/codeigniter-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white"></img>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></img>
 <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998"></img>
 <img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=306998"></img>
 <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=32DE84"></img>
-<img src="https://img.shields.io/badge/CSS3-3C99DC?style=for-the-badge&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Bootstrap-553C7B?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=EBEBEB"></img>
 <img src="https://img.shields.io/badge/ActionScript-A42E3E?style=for-the-badge&logo=as3&logoColor=white"></img>
@@ -35,9 +35,7 @@ My focus is on building modern web applications and exploring **AI-powered integ
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 <img src="https://img.shields.io/badge/TypeScript-3B779C?style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/jQuery-131B28?style=for-the-badge&logo=jquery&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-DB0007?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/React-0081A3?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=phptpshop&logoColor=white"></img>
 <img src="https://img.shields.io/badge/After Effect-black?style=for-the-badge&logo=aftereffect&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/Illustrator-black?style=for-the-badge&logo=ai&logoColor=white"></img>
